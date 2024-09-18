@@ -18,6 +18,9 @@ Spaceship Pygame showcases and utilizes various essential elements of game desig
 - Stars are randomly generated throughout the screen.
 - Meteors are rotated at a random speed and spawn every 0.5 seconds at a random location near the top of the screen.
 - Accurate hitboxes, not just rect but utilizing masks.
+- Timers used to ensure spaceship cannot shoot too fast.
+- Player cannot go off screen, objects (lasers, meteors) are deleted when they are off screen to enhance performance.
+- FPS of the game does not affect movement.
 
 ## Controls
 W - Move up  
