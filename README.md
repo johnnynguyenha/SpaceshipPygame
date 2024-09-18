@@ -24,5 +24,10 @@ pip install pygame-ce
 or   
 pip3 install pygame-ce  
 ```
-Afterwards, the game can be ran on an IDE or via compiled.  
+Afterwards, the game can be ran using 
+```
+python "main.py"
+or
+python3 "main.py"
+```
 
