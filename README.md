@@ -11,6 +11,7 @@ Spaceship Pygame showcases and utilizes various essential elements of game desig
 ✓ Animation  
 ✓ Importing Sprites  
 ✓ Timers  
+✓ Knowledge of Rects, Sprites, Image, Key Detection
 
 ## Screenshot
 ![{E15032DA-8A2D-48D4-9035-E5981EC9729A}](https://github.com/user-attachments/assets/d5a9f865-89f7-4a75-a5c5-8dea1f2d5846)
