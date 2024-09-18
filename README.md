@@ -18,5 +18,9 @@ Spaceship Pygame showcases and utilizes various essential elements of game desig
 ## Running
 To run, Python must be installed. In addition, Pygame-ce must be installed. 
 Pygame can be installed via 
-'pip install pygame-ce'
-'pip3 install pygame-ce'
+```
+pip install pygame-ce
+pip3 install pygame-ce
+```
+Afterwards, the game can be ran on an IDE or via compiled.
+
