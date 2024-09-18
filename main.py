@@ -2,7 +2,6 @@
 # johnnynguyenha on github
 
 import pygame
-import Player
 import random
 from random import uniform
 from os.path import join 
