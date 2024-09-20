@@ -24,8 +24,8 @@ Spaceship Pygame showcases and utilizes various essential elements of game desig
 
 ## Controls
 W - Move up  
-A - Move down  
-S - Move left  
+A - Move left    
+S - Move down  
 D - Move right  
 Spacebar - Shoot laser
 
